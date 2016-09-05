@@ -5,9 +5,11 @@ import exercise02.BestSellerList;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 import shared.Book;
+
+import static org.mockito.Mockito.times;
+import static org.mockito.Mockito.verify;
 
 /**
  * @author Mike Schmid
@@ -28,7 +30,7 @@ public class BestSellerListTestSolution {
         bestSellerList.addBookIfBestSeller(potterBook, 200000);
         bestSellerList.addBookIfBestSeller(yellowBook, 70000);
 
-        Mockito.verify(database, Mockito.times(1)).add(potterBook);
+        verify(database, times(1)).add(potterBook);
     }
 
 }
