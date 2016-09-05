@@ -1,7 +1,7 @@
 package shared;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid
  */
 public class Book {
 

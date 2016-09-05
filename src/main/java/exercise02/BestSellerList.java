@@ -3,7 +3,7 @@ package exercise02;
 import shared.Book;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid.
  */
 public class BestSellerList {
 

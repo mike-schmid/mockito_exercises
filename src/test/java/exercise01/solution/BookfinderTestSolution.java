@@ -1,4 +1,4 @@
-package exercise01.soultion;
+package exercise01.solution;
 
 import shared.Book;
 import exercise01.Bookfinder;
@@ -15,7 +15,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid
  */
 @RunWith(MockitoJUnitRunner.class)
 public class BookfinderTestSolution {

@@ -5,7 +5,7 @@ import shared.Book;
 import java.util.List;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid
  */
 public class Bookfinder {
 

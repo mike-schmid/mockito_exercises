@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid
  */
 public class BookfinderTest {
 

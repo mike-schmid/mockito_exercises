@@ -5,7 +5,7 @@ import org.junit.Test;
 import shared.Book;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid
  */
 public class BestSellerListTest {
 

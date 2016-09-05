@@ -10,7 +10,7 @@ import org.mockito.runners.MockitoJUnitRunner;
 import shared.Book;
 
 /**
- * Mike Schmid (Namics AG).
+ * @author Mike Schmid
  */
 @RunWith(MockitoJUnitRunner.class)
 public class BestSellerListTestSolution {
