@@ -33,6 +33,7 @@ public class BestSellerListTestSolution {
         bestSellerList.addBookIfBestSeller(yellowBook, 70000);
 
         verify(database, times(1)).add(potterBook);
+        verify(database, times(0)).add(yellowBook);
     }
 
 }
