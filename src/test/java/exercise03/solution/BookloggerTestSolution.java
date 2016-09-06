@@ -32,8 +32,8 @@ public class BookloggerTestSolution {
         final List<Book> booksToLog = Arrays.asList(potterBook, lotrBook);
         booklogger.logBooks(booksToLog);
 
-        verify(booklogger).logASingleBook(potterBook);
-        verify(booklogger).logASingleBook(lotrBook);
+        verify(booklogger, times(1)).logASingleBook(potterBook);
+        verify(booklogger, times(1)).logASingleBook(lotrBook);
         verify(booklogger, times(2)).logASingleBook(anyObject());
 
     }
