@@ -5,6 +5,8 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
+ * Exercise 05 - The answer!
+ *
  * @author Mike Schmid
  */
 public class TranslatorTest {

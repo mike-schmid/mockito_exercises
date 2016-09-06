@@ -4,6 +4,8 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
+ * Exercise 04 - Mockception
+ *
  * @author Mike Schmid
  */
 public class GreetingsTest {

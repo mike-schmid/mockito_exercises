@@ -15,6 +15,8 @@ import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 
 /**
+ * Exercise 03 - Spy
+ *
  * @author Mike Schmid
  */
 @RunWith(MockitoJUnitRunner.class)

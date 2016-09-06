@@ -5,6 +5,8 @@ import org.junit.Test;
 import shared.Book;
 
 /**
+ * Exercise 02 - Verify method calls
+ *
  * @author Mike Schmid
  */
 public class BestSellerListTest {

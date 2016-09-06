@@ -1,6 +1,5 @@
 package exercise01.solution;
 
-import shared.Book;
 import exercise01.Bookfinder;
 import exercise01.SlowDatabase;
 import org.junit.Assert;
@@ -10,11 +9,14 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
+import shared.Book;
 
 import java.util.Arrays;
 import java.util.List;
 
 /**
+ * Exercise 01 - A simple Mock
+ *
  * @author Mike Schmid
  */
 @RunWith(MockitoJUnitRunner.class)

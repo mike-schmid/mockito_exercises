@@ -5,6 +5,8 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
+ * Exercise 01 - A simple Mock
+ *
  * @author Mike Schmid
  */
 public class BookfinderTest {

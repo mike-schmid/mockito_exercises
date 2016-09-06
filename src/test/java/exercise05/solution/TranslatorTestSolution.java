@@ -14,6 +14,8 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 /**
+ * Exercise 05 - The answer!
+ *
  * @author Mike Schmid
  */
 @RunWith(MockitoJUnitRunner.class)

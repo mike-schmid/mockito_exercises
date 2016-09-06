@@ -7,6 +7,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
+ * Exercise 03 - Spy
+ *
  * @author Mike Schmid
  */
 public class BookloggerTest {

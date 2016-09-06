@@ -12,6 +12,8 @@ import org.mockito.runners.MockitoJUnitRunner;
 import static org.mockito.Mockito.when;
 
 /**
+ * Exercise 04 - Mockception
+ *
  * @author Mike Schmid
  */
 @RunWith(MockitoJUnitRunner.class)
