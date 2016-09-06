@@ -23,7 +23,7 @@ public class BestSellerListTest {
         bestSellerList.addBookIfBestSeller(new Book(1, "Harry Potter"), 200000);
         bestSellerList.addBookIfBestSeller(new Book(2, "50 Shades of Yellow"), 70000);
 
-        //TODO: Check that only the first book (Harry Potter) is added to the database.
+        //TODO: Check that only the first book (Harry Potter) is added to the database. You may use mockitos veryfiy() methods
 
     }
 

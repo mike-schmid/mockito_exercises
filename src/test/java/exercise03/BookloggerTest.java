@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class BookloggerTest {
 
-    // TODO: check that the method "Booklogger.logASingleBook(...)" was called 2 times. Also check that the parameter of both calls were correct!
+    // TODO: check that the method "Booklogger.logASingleBook(...)" was called exactly 2 times. Also check that the parameter of both calls were correct!
     // Hint: you cannot mock "Booklogger" because that's the class we want to test....
 
     @Test
